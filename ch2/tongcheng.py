@@ -9,7 +9,7 @@ import bson.binary
 import spider
 
 baseUrl = 'http://jiaoyou.58.com'
-mainUrl = '/sh/mm/18-28'
+mainUrl = '/sh/mm/18-38'
 
 
 def parseSearch(url):
