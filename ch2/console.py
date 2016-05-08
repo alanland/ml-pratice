@@ -1,7 +1,7 @@
 import kNNN
 
-group, labels = kNNN.create_dataset()
+group, labels = kNNN.createDataset()
 
 print group
 
-print  labels
+print labels
